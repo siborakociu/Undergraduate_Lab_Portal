@@ -22,9 +22,9 @@ The Undergraduate Lab Portal is a centralized platform that simplifies finding a
 - Generate reports for institutional review
 
 # Members
-Sibora Kociu
-Redi Cuka
-Arlind Disha
-Arli Asllani
-Nikol Isaku
-Arbiana Muka
+- Sibora Kociu
+- Redi Cuka
+- Arlind Disha
+- Arli Asllani
+- Nikol Isaku
+- Arbiana Muka
