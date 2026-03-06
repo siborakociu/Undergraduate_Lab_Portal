@@ -33,3 +33,4 @@ The Undergraduate Lab Portal is a centralized platform that simplifies finding a
 - Arli Asllani
 - Nikol Isaku
 - Arbiana Muka
+- Megi Sollaku
