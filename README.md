@@ -21,6 +21,11 @@ The Undergraduate Lab Portal is a centralized platform that simplifies finding a
 - Oversee lab safety compliance records
 - Generate reports for institutional review
 
+✔ External Programs & Partnerships Department
+-  Manages applications related to Erasmus and international mobility programs
+-  Inform students about government scholarships, internships, and funded projects
+-  Provide advising for students interested in studying or working abroad 
+
 # Members
 - Sibora Kociu
 - Redi Cuka
